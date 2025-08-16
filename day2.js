@@ -1,7 +1,8 @@
 firstname = "Soumik"
-
 console.log("firstname :" + firstname);
 console.log("firstname datatype: "+ typeof firstname) // string
+
+
 firstname = 78
 console.log("firstname :" + firstname);
 console.log("firstname datatype: "+ typeof firstname) //number
